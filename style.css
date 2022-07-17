@@ -1,0 +1,19 @@
+body{
+    padding: 150px;
+}
+.div_1{
+    width: 400px;
+    height: 400px;
+    border: 10px solid brown;
+    transform: translateY(-420px) rotate(2deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.div_2{
+    width: 400px;
+    height: 400px;
+    border: 10px solid blue;
+    transform: rotate(-2deg);
+}
